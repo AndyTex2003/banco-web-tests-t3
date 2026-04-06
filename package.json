@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/AndyTex2003/banco-web-tests-t3#readme",
   "devDependencies": {
-    "cypress": "^15.13.0"
+    "cypress": "^15.13.0",
+    "cypress-mochawesome-reporter": "^4.0.2"
   }
 }
